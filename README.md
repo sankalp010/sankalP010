@@ -2,7 +2,7 @@
   <img
     src="autumn-road.gif"
     alt="Animated monochrome ASCII terminal banner"
-    width="100%"
+    width="70%"
   />
 </p>
 
