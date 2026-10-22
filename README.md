@@ -1,17 +1,22 @@
-
-  <p align="center"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px"> 
+<p align="center"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px"> 
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px">
 </p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sankalp Shrivastava</h1>
 
-**Full-stack development · Exploring AI-powered products**
+<div align="center">
+
+**Full-stack development · Exploring AI, ML & Data Science**
 
 Building practical software, strengthening engineering fundamentals, and sharing what I learn along the way.
 
+</div>
+
+<div align="center">
 <a href="https://test-portfolio-beta-blush.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-242424?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/sankalp010" title="GitHub"><img src="https://img.shields.io/badge/GitHub-242424?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/sankalp10" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 
 </div>
 
