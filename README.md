@@ -5,14 +5,6 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sankalp Shrivastava</h1>
 
-<div align="center">
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Animated terminal visual" width="140" />
-
-<div align="center">
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Animated terminal visual" width="140" />
-
 **Full-stack development · Exploring AI-powered products**
 
 Building practical software, strengthening engineering fundamentals, and sharing what I learn along the way.
