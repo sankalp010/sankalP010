@@ -1,6 +1,20 @@
-<p align="center"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px"> 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" height="160px" width="160px">
+ <p align="center">
+  <img
+    src="https://stuff.charm.sh/vhs/examples/line-height.gif"
+    alt="Minimal terminal animation"
+    width="100%"
+    height="250"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="assets/terminal-banner.gif"
+    alt="Animated monochrome ASCII terminal banner"
+    width="100%"
+  />
+</p>
+
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sankalp Shrivastava</h1>
 
