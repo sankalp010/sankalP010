@@ -1,19 +1,17 @@
- <p align="center">
+<p align="center">
   <img
-    src="https://stuff.charm.sh/vhs/examples/line-height.gif"
-    alt="Minimal terminal animation"
-    width="100%"
-    height="250"
+    src="autumn-road-cyclist-1920x1080.gif"
+    alt="Animated monochrome ASCII terminal banner"
+    width="70%"
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
-    src="assets/terminal-banner.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB1NGZxMm13am13YzYzaGRiejQweG42d2NiZDNiYWR4ZWltYmRxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j4l29DaRrIgEIPRHlt/giphy.gif"
     alt="Animated monochrome ASCII terminal banner"
-    width="100%"
   />
-</p>
+</p> -->
 
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Sankalp Shrivastava</h1>
