@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="autumn-road-cyclist-1920x1080.gif"
+    src="autumn-road.gif"
     alt="Animated monochrome ASCII terminal banner"
     width="70%"
   />
